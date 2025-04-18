@@ -12,3 +12,4 @@ Me chamo Gabriela Cristina Moreira Pereira, tenho 17 anos , atualmente estou cur
 <br/>
 <br/>
 ### 🤖 Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GABRIELA-008&show_icons=true)
