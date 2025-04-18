@@ -1,5 +1,6 @@
 #  Gabriela Cristina
-**`Desenvolvedora fullstake`**
+![subtitulo](https://img.shields.io/badge/Desenvolvedora%20fullstake-FF007F?style=flat)
+
 
 Me chamo Gabriela Cristina Moreira Pereira, tenho 17 anos , Ensino Médio E.E.E.P Marwin (em andamento), no curso de desenvolvimento de sistemas, confesso que no começo foi bastante desafiador a área da programação porém com esforço e dedicação tudo da certo, estou sempre disponivel a novos aprendizados.  
 
@@ -10,6 +11,11 @@ Me chamo Gabriela Cristina Moreira Pereira, tenho 17 anos , Ensino Médio E.E.E.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ff0000?style=for-the-badge&logo=git&logoColor=black)
 <br/>
-<br/>
-### 🤖 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GABRIELA-008&show_icons=true&theme=cobalt)
+### 🤖 Estatísticas 
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right:  10px;"
+  src="https://github-readme-stats.vercel.app/api?username=GABRIELA-008&show_icons=true&theme=synthwave&include_all_comits=true&locaIo=pt-Br"
+/>
