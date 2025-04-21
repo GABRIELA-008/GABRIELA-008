@@ -22,7 +22,7 @@ Me chamo Gabriela Cristina Moreira Pereira, tenho 17 anos , Ensino Médio E.E.E.
 <img
   align="left"
   alt="GitHub Stats"
-  height="200"
-  style="padding-ringht: 10px;"
+  height="150"
+  style="padding-ringht: 5px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELA-008&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=3"
 />
