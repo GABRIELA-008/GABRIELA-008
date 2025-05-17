@@ -1,5 +1,5 @@
 #  Gabriela Cristina
-![subtitulo](https://img.shields.io/badge/Desenvolvedora%20fullstake-FF007F?style=flat)
+![subtitulo](https://img.shields.io/badge/Desenvolvedora%20full-stack-FF007F?style=flat)
 
 
 Me chamo Gabriela Cristina Moreira Pereira, tenho 17 anos , Ensino Médio E.E.E.P Marwin (em andamento), no curso de desenvolvimento de sistemas, confesso que no começo foi bastante desafiador a área da programação porém com esforço e dedicação tudo da certo, estou sempre disponivel a novos aprendizados.  
